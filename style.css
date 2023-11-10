@@ -1,0 +1,80 @@
+html{
+  background-color: lavender;
+}
+
+body {
+  color: gray;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  color: ;
+  font-size: 6.25rem;
+  margin: 60px;
+  font-family: "Sacramento";
+}
+
+h2 {
+  color: seagreen;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 15px;
+}
+
+h3 {
+  color: darkred;
+  font-family: "Montserrat", sans-serif;
+}
+
+p {
+  line-height: 2;
+  font-size: 1.5rem;
+  color: sandybrown;
+}
+
+hr {
+  width: 300px;
+  margin: 100px auto;
+}
+
+.top-container {
+  background-color: darkgray;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 50px;
+}
+
+.bottom-container {
+  background-color: lawngreen;
+  padding: 50px 0 20px;
+}
+
+.Beginner {
+  text-decoration: underline;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.cr {
+  color: darkorchid;
+  font-size: 1rem;
+  padding: 25px;
+}
+
+.setup {
+  position: relative;
+  right: 300px;
+  top: 40px;
+  left: 10px;
+}
+
+.NSC{
+  color: brown;
+}
