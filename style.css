@@ -1,14 +1,17 @@
 @media (min-width: 100px) and (max-width: 4000px){
    html{
    background-color: lavender;
+   text-align: center;
+   margin: auto;
    }
 }
 
 @media (min-width: 100px) and (max-width: 4000px){
   body {
   color: gray;
-  text-align: center;
+text-align: center;
   font-family: "Merriweather", serif;
+  margin: auto;
 }
 }
 
@@ -23,7 +26,7 @@
 
 @media (min-width: 100px) and (max-width: 4000px){
   h2 {
-  color: seagreen;
+  color: rgb(97, 138, 115);
   font-size: 2.5rem;
   font-weight: normal;
   padding-bottom: 15px;
@@ -56,6 +59,7 @@
   .top-container {
   background-color: darkgray;
   padding-top: 100px;
+  max-width: 100%;
 }
 }
 
