@@ -1,80 +1,114 @@
-html{
-  background-color: lavender;
+@media (min-width: 300px) and (max-width: 1600px){
+   html{
+   background-color: lavender;
+   }
 }
 
-body {
+@media (min-width: 300px) and (max-width: 1600px){
+  body {
   color: gray;
   text-align: center;
   font-family: "Merriweather", serif;
 }
+}
 
-h1 {
+@media (min-width: 300px) and (max-width: 1600px){
+  h1 {
   color: ;
   font-size: 6.25rem;
   margin: 60px;
   font-family: "Sacramento";
 }
+}
 
-h2 {
+@media (min-width: 300px) and (max-width: 1600px){
+  h2 {
   color: seagreen;
   font-size: 2.5rem;
   font-weight: normal;
   padding-bottom: 15px;
 }
+}
 
-h3 {
+@media (min-width: 300px) and (max-width: 1600px){
+  h3 {
   color: darkred;
   font-family: "Montserrat", sans-serif;
 }
+}
 
-p {
+@media (min-width: 300px) and (max-width: 1600px){
+  p{
   line-height: 2;
   font-size: 1.5rem;
   color: sandybrown;
 }
+}
 
-hr {
+@media (min-width: 300px) and (max-width: 1600px){
+  hr {
   width: 300px;
   margin: 100px auto;
 }
+}
 
-.top-container {
+@media (min-width: 300px) and (max-width: 1600px){
+  .top-container {
   background-color: darkgray;
   position: relative;
   padding-top: 100px;
 }
-
-.middle-container {
-  margin: 50px;
 }
 
-.bottom-container {
+@media (min-width: 300px) and (max-width: 1600px){
+  .middle-container {
+  margin: 50px;
+}
+}
+
+@media (min-width: 300px) and (max-width: 1600px){
+  .bottom-container {
   background-color: lawngreen;
   padding: 50px 0 20px;
 }
 
-.Beginner {
+@media (min-width: 300px) and (max-width: 1600px){
+  .Beginner {
   text-decoration: underline;
 }
+}
 
-.intro {
+@media (min-width: 300px) and (max-width: 1600px){
+  .intro {
   width: 30%;
   margin: auto;
 }
+}
 
-.cr {
+@media (min-width: 300px) and (max-width: 1600px){
+  .cr {
   color: darkorchid;
   font-size: 1rem;
   padding: 25px;
 }
+}
 
-.setup {
-  position: relative;
+@media (min-width: 300px) and (max-width: 1600px){
+  .setup {
+  position: flex;
   right: 300px;
   top: 40px;
   left: 10px;
 }
+}
 
-.NSC{
+@media (min-width: 300px) and (max-width: 1600px){
+  .NSC{
   color: brown;
+}
+}
+
+@media (min-width: 300px) and (max-width: 1600px){
+  #media{
+position: relative;
 }
