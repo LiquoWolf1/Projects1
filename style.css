@@ -1,10 +1,10 @@
-@media (min-width: 300px) and (max-width: 1600px){
+@media (min-width: 100px) and (max-width: 4000px){
    html{
    background-color: lavender;
    }
 }
 
-@media (min-width: 300px) and (max-width: 1600px){
+@media (min-width: 100px) and (max-width: 4000px){
   body {
   color: gray;
   text-align: center;
@@ -12,16 +12,16 @@
 }
 }
 
-@media (min-width: 300px) and (max-width: 1600px){
+@media (min-width: 100px) and (max-width: 4000px){
   h1 {
-  color: ;
+  color:black;
   font-size: 6.25rem;
   margin: 60px;
   font-family: "Sacramento";
 }
 }
 
-@media (min-width: 300px) and (max-width: 1600px){
+@media (min-width: 100px) and (max-width: 4000px){
   h2 {
   color: seagreen;
   font-size: 2.5rem;
@@ -30,14 +30,14 @@
 }
 }
 
-@media (min-width: 300px) and (max-width: 1600px){
+@media (min-width: 100px) and (max-width: 4000px){
   h3 {
   color: darkred;
   font-family: "Montserrat", sans-serif;
 }
 }
 
-@media (min-width: 300px) and (max-width: 1600px){
+@media (min-width: 100px) and (max-width: 4000px){
   p{
   line-height: 2;
   font-size: 1.5rem;
@@ -45,47 +45,46 @@
 }
 }
 
-@media (min-width: 300px) and (max-width: 1600px){
+@media (min-width: 100px) and (max-width: 4000px){
   hr {
   width: 300px;
   margin: 100px auto;
 }
 }
 
-@media (min-width: 20px) and (max-width: 1600px){
+@media (min-width: 100px) and (max-width: 4000px){
   .top-container {
   background-color: darkgray;
-  position: absolute;
   padding-top: 100px;
 }
 }
 
-@media (min-width: 300px) and (max-width: 1600px){
+@media (min-width: 100px) and (max-width: 4000px){
   .middle-container {
   margin: 50px;
 }
 }
 
-@media (min-width: 300px) and (max-width: 1600px){
+@media (min-width: 100px) and (max-width: 4000px){
   .bottom-container {
   background-color: lawngreen;
   padding: 50px 0 20px;
 }
 
-@media (min-width: 300px) and (max-width: 1600px){
+@media (min-width: 100px) and (max-width: 4000px){
   .Beginner {
   text-decoration: underline;
 }
 }
 
-@media (min-width: 300px) and (max-width: 1600px){
+@media (min-width: 100px) and (max-width: 4000px){
   .intro {
   width: 30%;
   margin: auto;
 }
 }
 
-@media (min-width: 300px) and (max-width: 1600px){
+@media (min-width: 100px) and (max-width: 4000px){
   .cr {
   color: darkorchid;
   font-size: 1rem;
@@ -93,22 +92,23 @@
 }
 }
 
-@media (min-width: 300px) and (max-width: 1600px){
+@media (min-width: 100px) and (max-width: 4000px){
   .setup {
-  position: flex;
+  position: relative;
   right: 300px;
   top: 40px;
   left: 10px;
 }
 }
 
-@media (min-width: 300px) and (max-width: 1600px){
+@media (min-width: 100px) and (max-width: 4000px){
   .NSC{
   color: brown;
 }
 }
 
-@media (min-width: 300px) and (max-width: 1600px){
+@media (min-width: 100px) and (max-width: 4000px){
   #media{
 position: relative;
-}
+display: flex;
+  }
