@@ -52,10 +52,10 @@
 }
 }
 
-@media (min-width: 300px) and (max-width: 1600px){
+@media (min-width: 20px) and (max-width: 1600px){
   .top-container {
   background-color: darkgray;
-  position: relative;
+  position: absolute;
   padding-top: 100px;
 }
 }
