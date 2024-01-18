@@ -1,6 +1,6 @@
 @media (min-width: 100px) and (max-width: 4000px){
    html{
-   background-color: lavender;
+   background-color:black;
    text-align: center;
    margin: auto;
    }
@@ -8,7 +8,7 @@
 
 @media (min-width: 100px) and (max-width: 4000px){
   body {
-  color: gray;
+  color: red;
 text-align: center;
   font-family: "Merriweather", serif;
   margin: auto;
@@ -18,7 +18,7 @@ text-align: center;
 @media (min-width: 100px) and (max-width: 4000px){
   h1 {
   color:black;
-  font-size: 6.25rem;
+  font-size: 5.25rem;
   margin: 60px;
   font-family: "Sacramento";
 }
@@ -26,7 +26,7 @@ text-align: center;
 
 @media (min-width: 100px) and (max-width: 4000px){
   h2 {
-  color: rgb(97, 138, 115);
+  color: peru;
   font-size: 2.5rem;
   font-weight: normal;
   padding-bottom: 15px;
@@ -44,7 +44,7 @@ text-align: center;
   p{
   line-height: 2;
   font-size: 1.5rem;
-  color: sandybrown;
+  color: silver;
 }
 }
 
@@ -57,7 +57,7 @@ text-align: center;
 
 @media (min-width: 100px) and (max-width: 4000px){
   .top-container {
-  background-color: darkgray;
+  background-color: aquamarine;
   padding-top: 100px;
   max-width: 100%;
 }
@@ -111,8 +111,7 @@ text-align: center;
 }
 }
 
-@media (min-width: 100px) and (max-width: 4000px){
-  #media{
+@media (min-width: 100px) and (max-width: 4000px) #media{
 position: relative;
 display: flex;
   }

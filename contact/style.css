@@ -1,16 +1,16 @@
 html{
-  background-color: antiquewhite;
+  background-color: rgb(27, 27, 27);
   text-align: center;
   padding-top: 300px;
 }
 
 .contact{
-  color: red;
+  color: silver;
   margin: 2rem;
   font-size: 3rem;
 }
 
 p{
-  color: blue;
+  color: sienna;
   font-size: 150%;
 }
